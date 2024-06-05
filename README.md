@@ -1,4 +1,4 @@
-#Objective:
+**Objective:**
 Road safety is a paramount concern in modern transportation systems, and the accurate detection of traffic signs plays a pivotal role in ensuring it.
 This report focuses on the application of Convolutional Neural Networks (CNNs) in the context of traffic sign detection.
 CNNs have demonstrated remarkable success in computer vision tasks, making them a suitable choice for recognizing and classifying traffic signs in various scenarios.
@@ -35,7 +35,6 @@ Traffic Sign Inventory and Maintenance: CNNs can be utilized for creating and ma
 Driver Education: Traffic sign detection systems can be incorporated into driver education programs to enhance awareness and understanding of various traffic signs. Simulated environments using CNNs can help train new drivers in diverse traffic scenarios.
 
 The application of CNNs in traffic sign detection is pivotal in advancing intelligent transportation systems, enhancing road safety, and supporting the development of autonomous and connected vehicles. As technology continues to evolve, these applications are likely to become even more sophisticated, contributing to the overall efficiency and safety of transportation networks.
-
 
 **Conclusions**
 
