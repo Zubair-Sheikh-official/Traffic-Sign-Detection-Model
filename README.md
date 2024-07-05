@@ -40,7 +40,7 @@ The application of CNNs in traffic sign detection is pivotal in advancing intell
 
 Traffic sign detection using CNNs is a promising approach for improving road safety. 
 The integration of deep learning technologies into transportation systems has the potential to significantly reduce human errors, enhance traffic management, and contribute to the development of intelligent and autonomous vehicles.
-Continued research and advancements in CNN architectures will further refine the accuracy and efficiency of traffic sign detection systems.
+Continued research and advancements in CNN architectures will further refine the accuracy and efficiency of traffic sign detection systems!
  
 **Dataset**
 
